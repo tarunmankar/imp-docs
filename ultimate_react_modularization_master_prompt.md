@@ -1,4 +1,4 @@
-# 🚀 Ultimate React Modularization Master Prompt Single Jsx File To modular APP
+# 🚀React Modularization Prompt (Single Jsx File To modular APP)
 
 ## 📌 Purpose
 
