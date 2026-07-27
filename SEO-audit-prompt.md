@@ -1,3 +1,5 @@
+Main URL - 
+
 Role: You are a Senior Technical SEO Specialist & Web Architect. Perform a 100% comprehensive, exhaustive SEO Audit for the website.
 
 Audit the entire codebase/website across the following 8 critical pillars and provide a detailed diagnostic report with exact issue locations and actionable fixes:
@@ -46,5 +48,8 @@ Audit the entire codebase/website across the following 8 critical pillars and pr
 ### 8. 📊 Analytics & Search Verification
 - Google Analytics (GA4/GTAG script with non-blocking afterInteractive loading).
 - Webmaster Verification (Google Search Console meta tag or HTML verification file intact).
+
+### 9. 📊  Webmaster and SEO audits
+Verify that there are no duplicate URL issues between the WWW and non-WWW versions. Ensure only one canonical URL is indexed, with proper 301 redirects and canonical tags configured so the website passes Webmaster and SEO audits without duplicate content errors.
 
 Deliver the output as a clean Scorecard Table + List of Specific Critical Bugs + Actionable Fixes.
